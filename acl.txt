@@ -1,0 +1,6 @@
+user sensor-101
+topic read sensor/tem
+topic write sensor/tem
+user mqtt-subscriber
+topic read sensor/tem
+topic write sensor/tem

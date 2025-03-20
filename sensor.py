@@ -5,9 +5,14 @@ import time
 
 broker = "localhost"
 port = 9999
-topic = "factory/sensors/temperature"
+topic = "sensor/tem"
+username = 'sensor-101'
+password = 'sensor-101'
 
-client = mqtt.Client(client_id='sensor-9999')
+client = mqtt.Client(client_id='sensor-101')
+# authentication purposes
+client.username_pw_set(username=username, password=password)
+
 client.connect(host=broker, port=port, keepalive=50)
 
 while True:

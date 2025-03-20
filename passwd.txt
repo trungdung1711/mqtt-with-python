@@ -1,0 +1,2 @@
+sensor-101:$7$101$zw+biA1r2Pz1QYv2$t8vIgS/IZiYdYeqgEPHHvpgrOG/sFrxIWWfqmSYzuLXh9g7Ay5Plv1SpjR3r7ePvTqpWnhcDxv7/EsJtE4t4ig==
+mqtt-subscriber:$7$101$yrst3atVHn8hC9YB$oyaBZ+8YSoDd9R/9pUQZjKBBcVQ+sVPnT2dS3cv0P/F+ImN3w+wv/bipXniFt4aSZVljW3skiLB2S4QB8s1mvQ==
